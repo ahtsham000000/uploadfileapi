@@ -1,0 +1,24 @@
+Main heading,Sub Headings,Listing,Buttons,Create
+ORIC,Dashboard,"Community Title, Actions",None,None
+ORIC,"Communities
+","'Community Title' , 'Actions'
+",+ Add Community,"Field Label: Community Title, Type: text"
+ORIC,"MoU Parties
+","'Party Title' , 'Actions'
+",+ Add Party,"Field Label: Party Title, Type: text"
+ORIC,"MoU's
+","'Title' , 'Party-I Focal Person' , 'Party-II' , 'Party-II Focal Person' , 'Community' , 'Nature' , 'Date Signed' , 'Duration' , 'Status' , 'Action'
+",+ Add MoU,"Field Label: Party-I Focal Person, Type: select; Field Label: Community, Type: select; Field Label: PArty II, Type: text; Field Label: PArty II Focal Person, Type: text; Field Label: Title, Type: text; Field Label: Nature Of Collaboration, Type: text; Field Label: Signed Date, Type: date; Field Label: Duration, Type: number; Field Label: Duration Type, Type: select; Field Label: Custodian, Type: text; Field Label: Status, Type: select"
+ORIC,"Manage Project Time
+","'Project Title' , 'Project From Date' , 'Project To Date' , 'Project Description' , 'Actions'
+",+ Add Date,"Field Label: Title, Type: text"
+ORIC,"Project Management
+","'Title' , 'Department' , 'Core Values' , 'Start Date' , 'End Date' , 'Completed' , 'Actions'
+",+ Add Project,"Field Label: Title, Type: text; Field Label: Core Areas, Type: select; Field Label: Faculties, Type: select; Field Label: Department, Type: select; Field Label: PI, Type: text; Field Label: Co-PI, Type: text; Field Label: Start Date, Type: date; Field Label: End Date, Type: date; Field Label: Year, Type: number; Field Label: Task Name, Type: text; Field Label: Start Date, Type: date; Field Label: Task End Date, Type: date"
+ORIC,"Reasearch Grant Applications
+","Employee Name, CNIC, Email, Phone, Faculty, Department, Action",None,None
+ORIC,"Reasearch Projects
+","'Employee' , 'Department' , 'Title' , 'Funding Agency' , 'Funding Area' , 'Status' , 'Approved Amount' , 'Year' , 'Actions'
+",+ Add Research Project,"Field Label: Name of Employee, Type: select; Field Label: Name of Co PI, Type: text; Field Label: Designation of Co PI, Type: text; Field Label: Co PI Institute, Type: text; Field Label: Title, Type: text; Field Label: Date, Type: date; Field Label: Project Type, Type: select"
+ORIC,Major Subjects,"'Subject Title' , 'Actions'
+",+ Add Subject,"Field Label: Title, Type: text"
